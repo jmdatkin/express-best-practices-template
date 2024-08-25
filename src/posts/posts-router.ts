@@ -11,7 +11,6 @@ postsRouter.get("/", (req, res, next) => {
 
 postsRouter.post("/", (req, res, next) => {
   const data = req.body;
-  console.log(req.body);
   return res.status(201).json(create(data));
 });
 
