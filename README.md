@@ -1,6 +1,6 @@
 # Express Best Practices Template
 
-Template for a modular and maintainable Express.js app.
+Template for a modular and maintainable Express.js app. See (https://tinyurl.com/4ykn8m9f)[https://tinyurl.com/4ykn8m9f] for the full guide.
 
 # To Run
 
