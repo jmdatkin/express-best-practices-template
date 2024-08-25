@@ -31,7 +31,7 @@ Uses [TypeScript](https://www.typescriptlang.org/) for type safety and code auto
 
 ---
 
-💡 Enjoyed this post? \
+💡 Found this useful? \
 Follow Julian Atkin on LinkedIn <https://linkedin.com/in/jatkindev> for more web development insights, tips, and tricks. \
 jatkindev@gmail.com \
 <https://jatkin.dev>
