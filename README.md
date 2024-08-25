@@ -27,7 +27,7 @@ Uses TypeScript for type safety and code auto-complete (if you're not using Type
 4. Run `npm install`.
 5. Run `npm migrate up` to populate the database.
 6. Run `npm run dev` to start the server.
-7. Navigate to http://localhost:3030/users and http://localhost:3030 to see data.
+7. Navigate to http://localhost:3030/users and http://localhost:3030/posts to see data.
 
 ---
 
