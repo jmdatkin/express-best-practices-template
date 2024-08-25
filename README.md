@@ -25,7 +25,7 @@ Uses [TypeScript](https://www.typescriptlang.org/) for type safety and code auto
 1. Clone the repository and enter into the it by running \
 `git clone https://github.com/jmdatkin/express-best-practices-template.git && cd express-best-practices-template`.
 4. Run `npm install`.
-5. Run `npm migrate up` to populate the database.
+5. Run `npm run migrate up` to populate the database.
 6. Run `npm run dev` to start the server.
 7. Navigate to http://localhost:3030/users and http://localhost:3030/posts to see data.
 
