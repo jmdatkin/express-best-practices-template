@@ -21,7 +21,7 @@ Middleware and routers can be added and removed and the file remains readable an
 ## TypeScript
 Uses TypeScript for type safety and code auto-complete (if you're not using TypeScript in your projects... use TypeScript).
 
-# To Run
+# Getting Started
 1. Clone the repository and enter into the it by running \
 `git clone https://github.com/jmdatkin/express-best-practices-template.git && cd express-best-practices-template`.
 4. Run `npm install`.
